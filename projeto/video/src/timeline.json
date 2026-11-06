@@ -1,0 +1,665 @@
+{
+ "fps": 30,
+ "totalFrames": 1663,
+ "total": 55.437999999999995,
+ "cenas": [
+  {
+   "n": 1,
+   "start": 0.7,
+   "dur": 9.36,
+   "words": [
+    {
+     "w": "Fala",
+     "s": 0.798
+    },
+    {
+     "w": "turma",
+     "s": 1.5
+    },
+    {
+     "w": "Se",
+     "s": 2.795
+    },
+    {
+     "w": "você",
+     "s": 2.998
+    },
+    {
+     "w": "esteve",
+     "s": 3.236
+    },
+    {
+     "w": "na",
+     "s": 3.617
+    },
+    {
+     "w": "internet",
+     "s": 3.7
+    },
+    {
+     "w": "essa",
+     "s": 4.224
+    },
+    {
+     "w": "semana",
+     "s": 4.402
+    },
+    {
+     "w": "com",
+     "s": 5.069
+    },
+    {
+     "w": "certeza",
+     "s": 5.224
+    },
+    {
+     "w": "ouviu",
+     "s": 5.7
+    },
+    {
+     "w": "essa",
+     "s": 5.974
+    },
+    {
+     "w": "frase",
+     "s": 6.2
+    },
+    {
+     "w": "Meu",
+     "s": 6.902
+    },
+    {
+     "w": "caráter",
+     "s": 7.033
+    },
+    {
+     "w": "não",
+     "s": 7.533
+    },
+    {
+     "w": "tem",
+     "s": 7.712
+    },
+    {
+     "w": "nada",
+     "s": 7.902
+    },
+    {
+     "w": "a",
+     "s": 8.2
+    },
+    {
+     "w": "ver",
+     "s": 8.248
+    },
+    {
+     "w": "com",
+     "s": 8.462
+    },
+    {
+     "w": "meu",
+     "s": 8.617
+    },
+    {
+     "w": "instinto",
+     "s": 8.748
+    }
+   ]
+  },
+  {
+   "n": 2,
+   "start": 10.51,
+   "dur": 9.624,
+   "words": [
+    {
+     "w": "O",
+     "s": 10.608
+    },
+    {
+     "w": "meme",
+     "s": 10.715
+    },
+    {
+     "w": "viralizou",
+     "s": 11.072
+    },
+    {
+     "w": "E",
+     "s": 12.546
+    },
+    {
+     "w": "na",
+     "s": 12.653
+    },
+    {
+     "w": "publicidade",
+     "s": 12.796
+    },
+    {
+     "w": "meme",
+     "s": 13.748
+    },
+    {
+     "w": "é",
+     "s": 14.046
+    },
+    {
+     "w": "atenção",
+     "s": 14.153
+    },
+    {
+     "w": "de",
+     "s": 14.641
+    },
+    {
+     "w": "graça",
+     "s": 14.736
+    },
+    {
+     "w": "Mas",
+     "s": 15.998
+    },
+    {
+     "w": "a",
+     "s": 16.2
+    },
+    {
+     "w": "pergunta",
+     "s": 16.343
+    },
+    {
+     "w": "é",
+     "s": 16.891
+    },
+    {
+     "w": "como",
+     "s": 17.391
+    },
+    {
+     "w": "usar",
+     "s": 17.7
+    },
+    {
+     "w": "isso",
+     "s": 17.998
+    },
+    {
+     "w": "sem",
+     "s": 18.296
+    },
+    {
+     "w": "queimar",
+     "s": 18.462
+    },
+    {
+     "w": "a",
+     "s": 18.831
+    },
+    {
+     "w": "marca",
+     "s": 18.891
+    }
+   ]
+  },
+  {
+   "n": 3,
+   "start": 20.584,
+   "dur": 6.6,
+   "words": [
+    {
+     "w": "A",
+     "s": 20.682
+    },
+    {
+     "w": "gente",
+     "s": 20.801
+    },
+    {
+     "w": "pegou",
+     "s": 21.11
+    },
+    {
+     "w": "só",
+     "s": 21.432
+    },
+    {
+     "w": "a",
+     "s": 21.694
+    },
+    {
+     "w": "estrutura",
+     "s": 21.741
+    },
+    {
+     "w": "da",
+     "s": 22.194
+    },
+    {
+     "w": "frase",
+     "s": 22.313
+    },
+    {
+     "w": "o",
+     "s": 22.991
+    },
+    {
+     "w": "contraste",
+     "s": 23.063
+    },
+    {
+     "w": "entre",
+     "s": 23.61
+    },
+    {
+     "w": "caráter",
+     "s": 23.801
+    },
+    {
+     "w": "e",
+     "s": 24.265
+    },
+    {
+     "w": "instinto",
+     "s": 24.301
+    },
+    {
+     "w": "e",
+     "s": 25.122
+    },
+    {
+     "w": "transformou",
+     "s": 25.217
+    },
+    {
+     "w": "em",
+     "s": 25.813
+    },
+    {
+     "w": "produto",
+     "s": 25.896
+    }
+   ]
+  },
+  {
+   "n": 4,
+   "start": 27.634,
+   "dur": 9.384,
+   "words": [
+    {
+     "w": "De",
+     "s": 27.732
+    },
+    {
+     "w": "um",
+     "s": 27.91
+    },
+    {
+     "w": "lado",
+     "s": 28.053
+    },
+    {
+     "w": "o",
+     "s": 28.684
+    },
+    {
+     "w": "caráter",
+     "s": 28.755
+    },
+    {
+     "w": "econômico",
+     "s": 29.541
+    },
+    {
+     "w": "seguro",
+     "s": 30.422
+    },
+    {
+     "w": "carro",
+     "s": 31.16
+    },
+    {
+     "w": "de",
+     "s": 31.517
+    },
+    {
+     "w": "família",
+     "s": 31.601
+    },
+    {
+     "w": "Do",
+     "s": 32.908
+    },
+    {
+     "w": "outro",
+     "s": 33.122
+    },
+    {
+     "w": "o",
+     "s": 33.682
+    },
+    {
+     "w": "instinto",
+     "s": 33.753
+    },
+    {
+     "w": "zero",
+     "s": 34.479
+    },
+    {
+     "w": "a",
+     "s": 34.765
+    },
+    {
+     "w": "cem",
+     "s": 34.824
+    },
+    {
+     "w": "em",
+     "s": 35.086
+    },
+    {
+     "w": "sete",
+     "s": 35.194
+    },
+    {
+     "w": "segundos",
+     "s": 35.586
+    }
+   ]
+  },
+  {
+   "n": 5,
+   "start": 37.468,
+   "dur": 8.04,
+   "words": [
+    {
+     "w": "Isso",
+     "s": 37.566
+    },
+    {
+     "w": "constrói",
+     "s": 37.851
+    },
+    {
+     "w": "valor",
+     "s": 38.244
+    },
+    {
+     "w": "porque",
+     "s": 38.637
+    },
+    {
+     "w": "o",
+     "s": 38.947
+    },
+    {
+     "w": "carro",
+     "s": 39.042
+    },
+    {
+     "w": "deixa",
+     "s": 39.375
+    },
+    {
+     "w": "de",
+     "s": 39.708
+    },
+    {
+     "w": "ser",
+     "s": 39.816
+    },
+    {
+     "w": "só",
+     "s": 40.018
+    },
+    {
+     "w": "transporte",
+     "s": 40.232
+    },
+    {
+     "w": "Ele",
+     "s": 41.73
+    },
+    {
+     "w": "vira",
+     "s": 41.968
+    },
+    {
+     "w": "identidade",
+     "s": 42.17
+    },
+    {
+     "w": "os",
+     "s": 43.099
+    },
+    {
+     "w": "dois",
+     "s": 43.242
+    },
+    {
+     "w": "lados",
+     "s": 43.528
+    },
+    {
+     "w": "de",
+     "s": 43.908
+    },
+    {
+     "w": "quem",
+     "s": 44.028
+    },
+    {
+     "w": "dirige",
+     "s": 44.218
+    }
+   ]
+  },
+  {
+   "n": 6,
+   "start": 45.958,
+   "dur": 7.08,
+   "words": [
+    {
+     "w": "Vértice",
+     "s": 46.056
+    },
+    {
+     "w": "Duo",
+     "s": 46.615
+    },
+    {
+     "w": "Os",
+     "s": 47.72
+    },
+    {
+     "w": "dois",
+     "s": 47.898
+    },
+    {
+     "w": "lados",
+     "s": 48.196
+    },
+    {
+     "w": "de",
+     "s": 48.589
+    },
+    {
+     "w": "você",
+     "s": 48.672
+    },
+    {
+     "w": "num",
+     "s": 49.303
+    },
+    {
+     "w": "carro",
+     "s": 49.518
+    },
+    {
+     "w": "só",
+     "s": 49.851
+    },
+    {
+     "w": "Valeu",
+     "s": 50.982
+    },
+    {
+     "w": "turma",
+     "s": 51.732
+    }
+   ]
+  }
+ ],
+ "legendas": [
+  {
+   "cena": 1,
+   "text": "Fala, turma!",
+   "start": 0.798,
+   "end": 2.795
+  },
+  {
+   "cena": 1,
+   "text": "Se você esteve na internet essa semana,",
+   "start": 2.795,
+   "end": 5.069
+  },
+  {
+   "cena": 1,
+   "text": "com certeza ouviu essa frase:",
+   "start": 5.069,
+   "end": 6.902
+  },
+  {
+   "cena": 1,
+   "text": "\"Meu caráter não tem nada a ver com meu instinto.\"",
+   "start": 6.902,
+   "end": 9.836
+  },
+  {
+   "cena": 2,
+   "text": "O meme viralizou.",
+   "start": 10.608,
+   "end": 12.546
+  },
+  {
+   "cena": 2,
+   "text": "E na publicidade,",
+   "start": 12.546,
+   "end": 13.748
+  },
+  {
+   "cena": 2,
+   "text": "meme é atenção de graça.",
+   "start": 13.748,
+   "end": 15.998
+  },
+  {
+   "cena": 2,
+   "text": "Mas a pergunta é:",
+   "start": 15.998,
+   "end": 17.391
+  },
+  {
+   "cena": 2,
+   "text": "como usar isso sem queimar a marca?",
+   "start": 17.391,
+   "end": 19.896
+  },
+  {
+   "cena": 3,
+   "text": "A gente pegou só a estrutura da frase,",
+   "start": 20.682,
+   "end": 22.991
+  },
+  {
+   "cena": 3,
+   "text": "o contraste entre caráter e instinto,",
+   "start": 22.991,
+   "end": 25.122
+  },
+  {
+   "cena": 3,
+   "text": "e transformou em produto.",
+   "start": 25.122,
+   "end": 26.96
+  },
+  {
+   "cena": 4,
+   "text": "De um lado, o caráter:",
+   "start": 27.732,
+   "end": 29.541
+  },
+  {
+   "cena": 4,
+   "text": "econômico, seguro,",
+   "start": 29.541,
+   "end": 31.16
+  },
+  {
+   "cena": 4,
+   "text": "carro de família.",
+   "start": 31.16,
+   "end": 32.908
+  },
+  {
+   "cena": 4,
+   "text": "Do outro, o instinto:",
+   "start": 32.908,
+   "end": 34.479
+  },
+  {
+   "cena": 4,
+   "text": "zero a cem em sete segundos.",
+   "start": 34.479,
+   "end": 36.794
+  },
+  {
+   "cena": 5,
+   "text": "Isso constrói valor",
+   "start": 37.566,
+   "end": 38.637
+  },
+  {
+   "cena": 5,
+   "text": "porque o carro deixa de ser só transporte.",
+   "start": 38.637,
+   "end": 41.73
+  },
+  {
+   "cena": 5,
+   "text": "Ele vira identidade:",
+   "start": 41.73,
+   "end": 43.099
+  },
+  {
+   "cena": 5,
+   "text": "os dois lados de quem dirige.",
+   "start": 43.099,
+   "end": 45.282
+  },
+  {
+   "cena": 6,
+   "text": "Vértice Duo.",
+   "start": 46.056,
+   "end": 47.72
+  },
+  {
+   "cena": 6,
+   "text": "Os dois lados de você,",
+   "start": 47.72,
+   "end": 49.303
+  },
+  {
+   "cena": 6,
+   "text": "num carro só.",
+   "start": 49.303,
+   "end": 50.982
+  },
+  {
+   "cena": 6,
+   "text": "Valeu, turma!",
+   "start": 50.982,
+   "end": 52.796
+  }
+ ]
+}
