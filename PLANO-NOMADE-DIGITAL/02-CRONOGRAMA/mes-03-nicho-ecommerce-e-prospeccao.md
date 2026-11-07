@@ -676,7 +676,7 @@
 <sub>Data sugerida (início em 09/11/2026): 06/02/2027 · Tipo: Revisão mensal · Total: 180 min</sub>
 
 **Objetivo do dia:** Revisão trimestral (Dias 1–90): medir, decidir a estratégia e ajustar os próximos 90 dias.  
-**Ferramentas:** CSV de acompanhamento, dashboard (08-REVISOES/dashboard.html), template de revisão mensal  
+**Ferramentas:** CSV de acompanhamento, painel do PLANO-NOMADE-180.html, template de revisão mensal  
 **Material recomendado:** 08-REVISOES/revisao-mensal-template.md + critérios de passagem no topo deste arquivo
 
 | Tempo | Bloco | Tarefa exata |

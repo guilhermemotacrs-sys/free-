@@ -663,7 +663,7 @@ Hoje não há bloco de estudo. Saia de casa, durma, veja gente. O cérebro conso
 <sub>Data sugerida (início em 09/11/2026): 08/03/2027 · Tipo: Revisão mensal · Total: 180 min</sub>
 
 **Objetivo do dia:** Revisão do Mês 4: medir, decidir e ajustar  
-**Ferramentas:** CSV de acompanhamento, dashboard (08-REVISOES/dashboard.html), template de revisão mensal  
+**Ferramentas:** CSV de acompanhamento, painel do PLANO-NOMADE-180.html, template de revisão mensal  
 **Material recomendado:** 08-REVISOES/revisao-mensal-template.md + critérios de passagem no topo deste arquivo
 
 | Tempo | Bloco | Tarefa exata |

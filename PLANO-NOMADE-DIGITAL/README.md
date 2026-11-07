@@ -4,13 +4,17 @@ Sistema de execução diária para sair de **gestor de tráfego no Brasil (2 cli
 
 > Criado em 07/11/2026. Preços, regras fiscais e de visto foram pesquisados nesta data e estão com fontes em [00-DIAGNOSTICO/pesquisa-de-mercado.md](00-DIAGNOSTICO/pesquisa-de-mercado.md). Confirme valores nos sites oficiais antes de pagar ou decidir. Metas de renda são estimativas, não promessas.
 
-## Comece aqui
+## Comece aqui — use o arquivo HTML
 
-1. **Hoje (10 min):** leia este README e o [diagnóstico](00-DIAGNOSTICO/diagnostico.md).
-2. **Segunda-feira, 09/11/2026 — Dia 1:** abra [02-CRONOGRAMA/mes-01-fundacao.md](02-CRONOGRAMA/mes-01-fundacao.md) e siga o Dia 1. Os Dias 1–6 têm passo a passo detalhado; o Dia 7 é a primeira revisão.
-3. **Todo dia:** abra só o dia de hoje, faça os blocos na ordem, registre no CSV/dashboard, use o [checklist diário](08-REVISOES/checklist-diario.md).
-4. **Todo domingo:** [revisão semanal](08-REVISOES/revisao-semanal-template.md) (máx. 2 h no dia).
-5. **A cada 30 dias:** [revisão mensal](08-REVISOES/revisao-mensal-template.md) com os critérios de passagem do mês.
+**[PLANO-NOMADE-180.html](PLANO-NOMADE-180.html)** é o plano inteiro num único arquivo que funciona offline: os 180 dias, todos os documentos, scripts, prompts, revisões e o painel de progresso.
+
+1. **Baixe e salve** `PLANO-NOMADE-180.html` no computador (ou no celular) e abra no navegador (Chrome, Edge, Safari, Firefox). Não precisa de internet nem de instalar nada.
+2. **Todo dia:** clique em **Hoje**. Faça os blocos na ordem, marque cada um ao terminar (o botão ▶ inicia um cronômetro com o tempo do bloco) e preencha o **registro do dia**. Tudo salva sozinho.
+3. **Domingo:** abra a **revisão da semana** (os números da semana já vêm somados). **A cada 30 dias:** revisão do mês, com os critérios de passagem marcáveis.
+4. **Backup semanal:** o progresso fica salvo no navegador daquele aparelho. Em **Dados e backup**, baixe o backup (.json) toda semana; para trocar de aparelho, restaure o backup no outro.
+5. **Começa na segunda-feira, 09/11/2026 (Dia 1).** Se for começar em outra data, ajuste em **Dados e backup**.
+
+Os arquivos Markdown e CSV desta pasta têm o mesmo conteúdo (fonte do HTML) — servem para ler no GitHub ou importar no Google Sheets.
 
 ## As respostas principais
 
@@ -30,6 +34,7 @@ Sistema de execução diária para sair de **gestor de tráfego no Brasil (2 cli
 ```
 PLANO-NOMADE-DIGITAL/
 ├── README.md                          ← você está aqui
+├── PLANO-NOMADE-180.html              ← PLANO COMPLETO INTERATIVO (abra no navegador)
 ├── 00-DIAGNOSTICO/
 │   ├── diagnostico.md                 ← situação, forças/riscos, carreira, 3 habilidades, o que ignorar
 │   └── pesquisa-de-mercado.md         ← demanda, preços, ferramentas, plataformas, câmbio, regras (com fontes)
@@ -62,14 +67,13 @@ PLANO-NOMADE-DIGITAL/
     ├── revisao-semanal-template.md
     ├── revisao-mensal-template.md
     ├── acompanhamento-180-dias.csv     ← 1 linha por dia (planejado já preenchido; você preenche o realizado)
-    ├── metas-semanais.csv              ← metas numéricas das 26 semanas
-    └── dashboard.html                  ← painel offline (abra no navegador)
+    └── metas-semanais.csv              ← metas numéricas das 26 semanas
 ```
 
 ## Como acompanhar
 
 - **Planilha:** importe `08-REVISOES/acompanhamento-180-dias.csv` no Google Sheets (Arquivo → Importar). As colunas de "planejado" já vêm preenchidas; preencha status, minutos, criativos, contatos, respostas, calls, propostas, fechamentos, receita e energia.
-- **Dashboard:** baixe `08-REVISOES/dashboard.html` e abra no navegador (funciona offline). Registre o dia, veja o mapa dos 180 dias, o funil e a receita por mês. Os dados ficam salvos **só naquele navegador** — use "Exportar CSV" toda semana e, se quiser, "Importar CSV" para trazer o que está na planilha.
+- **HTML interativo:** `PLANO-NOMADE-180.html` registra tudo sozinho e tem painel com mapa dos 180 dias, funil e receita por mês. Em **Dados e backup** você exporta o mesmo CSV para a planilha ou importa um CSV de volta.
 
 ## Regras do plano
 

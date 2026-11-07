@@ -13,7 +13,7 @@
 
 ## Ao terminar (5 min)
 - [ ] Entrega salva na pasta certa com nome padrão.
-- [ ] Linha do dia preenchida no CSV/dashboard: status, minutos, minutos de inglês, criativos, leads, abordagens, follow-ups, respostas, calls, propostas, fechamentos, receita, energia (1–5).
+- [ ] Linha do dia preenchida no PLANO-NOMADE-180.html (ou no CSV): status, minutos, minutos de inglês, criativos, leads, abordagens, follow-ups, respostas, calls, propostas, fechamentos, receita, energia (1–5).
 - [ ] CRM: todo lead tocado hoje tem próxima ação com data.
 - [ ] 1 linha no "Diário de aprendizado": o que aprendi / o que travou.
 - [ ] Li o objetivo de amanhã (campo "Próxima ação").

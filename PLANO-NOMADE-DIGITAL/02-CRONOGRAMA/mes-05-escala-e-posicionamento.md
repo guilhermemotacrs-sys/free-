@@ -680,7 +680,7 @@
 <sub>Data sugerida (início em 09/11/2026): 07/04/2027 · Tipo: Revisão mensal · Total: 180 min</sub>
 
 **Objetivo do dia:** Revisão do Mês 5: medir, decidir e ajustar  
-**Ferramentas:** CSV de acompanhamento, dashboard (08-REVISOES/dashboard.html), template de revisão mensal  
+**Ferramentas:** CSV de acompanhamento, painel do PLANO-NOMADE-180.html, template de revisão mensal  
 **Material recomendado:** 08-REVISOES/revisao-mensal-template.md + critérios de passagem no topo deste arquivo
 
 | Tempo | Bloco | Tarefa exata |

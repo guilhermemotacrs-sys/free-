@@ -78,7 +78,7 @@
 |---|---|---|
 | Google Drive + Sheets + Calendar | Grátis | Indispensável |
 | Notion | Grátis | Opcional (se preferir a planilha) |
-| Dashboard deste plano (08-REVISOES/dashboard.html) | Grátis | Opcional |
+| PLANO-NOMADE-180.html (plano interativo: dias, blocos, cronômetro, revisões e painel) | Grátis | Indispensável |
 
 ### Portfólio
 

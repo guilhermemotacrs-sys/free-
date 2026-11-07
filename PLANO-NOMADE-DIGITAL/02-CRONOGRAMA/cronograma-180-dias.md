@@ -57,7 +57,7 @@ A proporção teoria × prática fica em ~20/80 ao longo do plano: todo conceito
 4. **Descanso obrigatório:** domingo leve toda semana e o Dia 91 inteiro de descanso, depois da revisão trimestral.
 5. **Atrasou mais de 3 dias?** Não tente "recuperar" tudo. Pule para o dia atual do calendário e leve só as entregas críticas (anúncios, contatos comerciais).
 6. **Toda tarefa termina num arquivo exportado ou numa mensagem enviada.** Assistir a tutorial sem produzir não conta como dia concluído.
-7. **Registre todos os dias** no CSV ([08-REVISOES/acompanhamento-180-dias.csv](../08-REVISOES/acompanhamento-180-dias.csv)) ou no dashboard.
+7. **Registre todos os dias** no CSV ([08-REVISOES/acompanhamento-180-dias.csv](../08-REVISOES/acompanhamento-180-dias.csv)) ou no arquivo [PLANO-NOMADE-180.html](../PLANO-NOMADE-180.html), que salva tudo sozinho.
 
 ## Índice dos 180 dias
 
@@ -270,5 +270,5 @@ A proporção teoria × prática fica em ~20/80 ao longo do plano: todo conceito
 | 176 (Seg) | 26 | Habilidade | Escrever o plano dos próximos 180 dias (Dias 181–360) com base no que funcionou. | Plano 181–360 (1–2 páginas) |
 | 177 (Ter) | 26 | Habilidade | Medir sua evolução no inglês (reteste EF SET) e definir o plano de inglês da próxima fase. | Nota EF SET final + comparação de pitches + plano de inglês |
 | 178 (Qua) | 26 | Comercial | Decidir o futuro da MM no Brasil durante a fase internacional. | Decisão sobre a MM + mensagens prontas (se houver mudança) |
-| 179 (Qui) | 26 | Habilidade | Compilar os números finais dos 180 dias no dashboard. | Dashboard final + critérios marcados |
+| 179 (Qui) | 26 | Habilidade | Compilar os números finais dos 180 dias no painel. | Painel final + critérios marcados |
 | 180 (Sex) | 26 | Revisão mensal | Revisão final dos 180 dias: o que você construiu, onde está nos marcos e qual é a decisão sobre a vida nômade. | Revisão mensal preenchida + decisão de passagem (sim/não) + até 3 ajustes escritos |

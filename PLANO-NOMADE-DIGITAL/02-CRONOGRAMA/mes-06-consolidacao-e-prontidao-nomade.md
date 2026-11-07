@@ -588,7 +588,7 @@
 <sub>Data sugerida (início em 09/11/2026): 03/05/2027 · Tipo: Habilidade · Total: 180 min</sub>
 
 **Objetivo do dia:** Escrever o plano dos próximos 180 dias (Dias 181–360) com base no que funcionou.  
-**Ferramentas:** Google Docs, CSV, dashboard  
+**Ferramentas:** Google Docs, painel do PLANO-NOMADE-180.html  
 **Material recomendado:** Suas revisões semanais e mensais · 01-ESTRATEGIA (fases seguintes)
 
 | Tempo | Bloco | Tarefa exata |
@@ -646,15 +646,15 @@
 - **Exercício prático:** Decisão de portfólio de clientes.
 - **Entrega concreta:** Decisão sobre a MM + mensagens prontas (se houver mudança)
 - **Como verificar se aprendi:** Sua receita por hora no Brasil e no exterior está calculada lado a lado.
-- **Próxima ação:** Dia 179: Compilar os números finais dos 180 dias no dashboard.
+- **Próxima ação:** Dia 179: Compilar os números finais dos 180 dias no painel.
 
 ---
 
 ### Dia 179 — Qui · Semana 26 · Fase 6 — Consolidação e prontidão nômade
 <sub>Data sugerida (início em 09/11/2026): 06/05/2027 · Tipo: Habilidade · Total: 180 min</sub>
 
-**Objetivo do dia:** Compilar os números finais dos 180 dias no dashboard.  
-**Ferramentas:** CSV de acompanhamento, dashboard (08-REVISOES/dashboard.html), Google Sheets  
+**Objetivo do dia:** Compilar os números finais dos 180 dias no painel.  
+**Ferramentas:** CSV de acompanhamento, painel do PLANO-NOMADE-180.html, Google Sheets  
 **Material recomendado:** 08-REVISOES/revisao-mensal-template.md
 
 | Tempo | Bloco | Tarefa exata |
@@ -666,7 +666,7 @@
 | **180 min** | | |
 
 - **Exercício prático:** Relatório final de desempenho.
-- **Entrega concreta:** Dashboard final + critérios marcados
+- **Entrega concreta:** Painel final + critérios marcados
 - **Como verificar se aprendi:** Você consegue apresentar seus 180 dias em 1 tela, com números.
 - **Próxima ação:** Dia 180: Revisão final dos 180 dias: o que você construiu, onde está nos marcos e qual é a decisão sobre a vida nômade.
 
@@ -676,7 +676,7 @@
 <sub>Data sugerida (início em 09/11/2026): 07/05/2027 · Tipo: Revisão mensal · Total: 180 min</sub>
 
 **Objetivo do dia:** Revisão final dos 180 dias: o que você construiu, onde está nos marcos e qual é a decisão sobre a vida nômade.  
-**Ferramentas:** CSV de acompanhamento, dashboard (08-REVISOES/dashboard.html), template de revisão mensal  
+**Ferramentas:** CSV de acompanhamento, painel do PLANO-NOMADE-180.html, template de revisão mensal  
 **Material recomendado:** 08-REVISOES/revisao-mensal-template.md + critérios de passagem no topo deste arquivo
 
 | Tempo | Bloco | Tarefa exata |

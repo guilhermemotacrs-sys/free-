@@ -1,6 +1,6 @@
 # Mês 1 (Dias 1–30) — Fundação: sistema, editor, IA e primeiros criativos
 
-> **Como usar este arquivo:** abra só o dia de hoje. Faça os blocos na ordem. No fim, preencha a linha do dia em `08-REVISOES/acompanhamento-180-dias.csv` (ou no dashboard). Domingo é revisão + descanso — não é dia de recuperar conteúdo atrasado, é dia de decidir o que cortar.
+> **Como usar este arquivo:** abra só o dia de hoje. Faça os blocos na ordem. No fim, preencha a linha do dia em `08-REVISOES/acompanhamento-180-dias.csv` (ou no arquivo PLANO-NOMADE-180.html). Domingo é revisão + descanso — não é dia de recuperar conteúdo atrasado, é dia de decidir o que cortar.
 
 ## Visão do mês
 
@@ -16,7 +16,7 @@
 | **Meta de renda (estimativas, não promessas)** | Conservadora: R$ 1.500 (mantém) · Realista: R$ 1.800–2.200 (1 upsell ou 1 cliente novo) · Ambiciosa: R$ 2.500+ (2 fechamentos). Internacional: US$ 0 (esperado). |
 | **Custo de ferramentas** | R$ 0 (só planos gratuitos). |
 
-**Indicadores do mês (preencha no CSV):** dias concluídos · minutos realizados · anúncios finalizados · abordagens BR · calls · respostas · tempo para produzir um anúncio de 15 s.
+**Indicadores do mês (registre no fim de cada dia):** dias concluídos · minutos realizados · anúncios finalizados · abordagens BR · calls · respostas · tempo para produzir um anúncio de 15 s.
 
 **Critérios para passar para o Mês 2 (≥ 80% cumpridos):**
 - [ ] 4 anúncios finalizados (Ad #1–#4) + 5 variações de gancho.
@@ -728,7 +728,7 @@
 <sub>Data sugerida (início em 09/11/2026): 08/12/2026 · Tipo: Revisão mensal · Total: 180 min</sub>
 
 **Objetivo do dia:** Revisão do Mês 1: medir, decidir e ajustar  
-**Ferramentas:** CSV de acompanhamento, dashboard (08-REVISOES/dashboard.html), template de revisão mensal  
+**Ferramentas:** CSV de acompanhamento, painel do PLANO-NOMADE-180.html, template de revisão mensal  
 **Material recomendado:** 08-REVISOES/revisao-mensal-template.md + critérios de passagem no topo deste arquivo
 
 | Tempo | Bloco | Tarefa exata |
