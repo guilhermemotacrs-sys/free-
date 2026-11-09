@@ -28,7 +28,10 @@
 - [x] Verba de anúncios fora do preço, com mínimo de R$ 600/mês: resolvido.
 - [ ] Garantia que você consiga bancar: com margem de 94%, um mês grátis custa só o seu tempo. É possível, mas ainda não foi definida.
 - [ ] Medir cancelamento desde o primeiro mês: ainda não existe dado.
-- [ ] Capacidade: quantos clientes você atende sozinho? É o dado que falta para saber o teto de renda.
+- [x] Capacidade: o fundador informou que já atendeu **10 clientes sozinho**. Teto de renda com 10 clientes, por mês:
+  - 10 de tráfego: **R$ 9.400** líquidos (R$ 10.000 de faturamento)
+  - 10 de Instagram (20 publicações): **R$ 19.740** líquidos (R$ 21.000)
+  - 10 combos: **R$ 28.200** líquidos (R$ 30.000). Atenção: 10 combos são 200 publicações por mês mais 10 contas de anúncio; confirmar se 10 *combos* cabem no seu tempo, e não só 10 clientes de tráfego.
 
 ---
 
@@ -50,6 +53,7 @@ Fixed costs: $0 a month (Ferramentas, software, contador (fundador informou: nen
 
 - **Break-even: 0 cliente-mês (gestão de tráfego, R$ 1.000)s a day.** Below that you lose money every month.
 - **Profit margin at your plan** (7 a day): **94%** of every sale, after every cost.
+- Capacity: 10 a day.
 
 ## Year 1, month by month
 

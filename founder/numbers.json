@@ -3,15 +3,38 @@
   "unit": "cliente-mês (gestão de tráfego, R$ 1.000)",
   "price": 1000,
   "variable": [
-    {"label": "Imposto estimado: Simples Nacional ~6% (ESTIMATIVA, confirmar com contador)", "cost": 60}
+    {
+      "label": "Imposto estimado: Simples Nacional ~6% (ESTIMATIVA, confirmar com contador)",
+      "cost": 60
+    }
   ],
   "fixed_monthly": [
-    {"label": "Ferramentas, software, contador (fundador informou: nenhum custo)", "cost": 0}
+    {
+      "label": "Ferramentas, software, contador (fundador informou: nenhum custo)",
+      "cost": 0
+    }
   ],
   "startup": [
-    {"label": "Nenhum investimento inicial (fundador informou)", "cost": 0}
+    {
+      "label": "Nenhum investimento inicial (fundador informou)",
+      "cost": 0
+    }
   ],
   "days_per_month": 1,
   "plan_per_day": 7,
-  "ramp_per_day": [2, 2, 3, 3, 4, 4, 5, 5, 6, 6, 7, 7]
+  "ramp_per_day": [
+    2,
+    2,
+    3,
+    3,
+    4,
+    4,
+    5,
+    5,
+    6,
+    6,
+    7,
+    7
+  ],
+  "capacity_per_day": 10
 }
