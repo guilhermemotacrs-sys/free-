@@ -12,5 +12,5 @@
 - Promessa: fazer a loja do cliente vender, usando tráfego pago.
 - Nicho: ainda não definido (decisão do fundador de não escolher agora).
 - Clientes atuais: 2 clientes-piloto, ambos só no serviço de tráfego pago.
-- Combo de R$ 3.000: pacote de posts incluído a confirmar (o fundador disse "3 posts"; pode ser 20).
+- Combo de R$ 3.000: tráfego pago + Instagram com 20 publicações/mês, das quais 8 são reels (12 posts estáticos + 8 reels).
 - Budget and constraints: fundador Guilherme. Orçamento inicial, horas disponíveis, equipe e canal de aquisição de clientes: não informados.

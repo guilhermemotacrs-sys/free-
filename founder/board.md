@@ -26,7 +26,7 @@ Ninguém mandou desistir, mas as notas são baixas: o conselho vê um negócio v
 - [ ] *(adiado pelo fundador)* Escolher **um nicho** de e-commerce (ex.: moda, cosméticos, pet) com **faturamento mínimo** do cliente definido. → `/founder-consumer`, `/founder-competitors`
 - [ ] Reescrever a oferta em torno de **um resultado ligado a vendas**, numa frase, e não em quantidade de posts. → `/founder-offer`
 - [x] Deixar claro **se a verba de anúncios está no preço** e qual a **verba mínima** do cliente. *(Fora do preço; mínimo R$ 600/mês.)* → `/founder-pricing`, `/founder-cfo`
-- [ ] Definir o escopo por escrito: qual pacote de posts entra no combo, revisões, aprovação, **prazo mínimo de contrato**. → `/founder-ops`
+- [ ] Definir o escopo por escrito: ~~qual pacote de posts entra no combo~~ *(20 publicações, 8 delas reels)*, revisões, aprovação, **prazo mínimo de contrato**. → `/founder-ops`
 - [ ] Criar uma **garantia que você consiga bancar** (ex.: mês seguinte sem mensalidade se a meta não for batida). → `/founder-offer`, `/founder-cfo`
 - [~] Fechar **2 ou 3 clientes-piloto** com desconto em troca de **case documentado com números**. *(2 pilotos de tráfego já ativos; falta documentar os números.)* → `/founder-launch`
 - [ ] Mostrar o **canal que traz os primeiros 10 clientes**, com o custo por cliente medido. → `/founder-marketing`
