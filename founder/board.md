@@ -23,12 +23,12 @@ Ninguém mandou desistir, mas as notas são baixas: o conselho vê um negócio v
 - **O que protege o negócio:** a lente de Monopólio quer uma vantagem que se acumule (método próprio, dados por nicho, marca). A lente de Ofertas acha que garantia e prova bastam para vender.
 
 ## Checklist de condições (os próximos passos vão testar)
-- [ ] Escolher **um nicho** de e-commerce (ex.: moda, cosméticos, pet) com **faturamento mínimo** do cliente definido. → `/founder-consumer`, `/founder-competitors`
+- [ ] *(adiado pelo fundador)* Escolher **um nicho** de e-commerce (ex.: moda, cosméticos, pet) com **faturamento mínimo** do cliente definido. → `/founder-consumer`, `/founder-competitors`
 - [ ] Reescrever a oferta em torno de **um resultado ligado a vendas**, numa frase, e não em quantidade de posts. → `/founder-offer`
-- [ ] Deixar claro **se a verba de anúncios está no preço** e qual a **verba mínima** do cliente. → `/founder-pricing`, `/founder-cfo`
+- [x] Deixar claro **se a verba de anúncios está no preço** e qual a **verba mínima** do cliente. *(Fora do preço; mínimo R$ 600/mês.)* → `/founder-pricing`, `/founder-cfo`
 - [ ] Definir o escopo por escrito: qual pacote de posts entra no combo, revisões, aprovação, **prazo mínimo de contrato**. → `/founder-ops`
 - [ ] Criar uma **garantia que você consiga bancar** (ex.: mês seguinte sem mensalidade se a meta não for batida). → `/founder-offer`, `/founder-cfo`
-- [ ] Fechar **2 ou 3 clientes-piloto** com desconto em troca de **case documentado com números**. → `/founder-launch`
+- [~] Fechar **2 ou 3 clientes-piloto** com desconto em troca de **case documentado com números**. *(2 pilotos de tráfego já ativos; falta documentar os números.)* → `/founder-launch`
 - [ ] Mostrar o **canal que traz os primeiros 10 clientes**, com o custo por cliente medido. → `/founder-marketing`
 - [ ] Escrever o **fluxo do cliente**: contato, diagnóstico da loja, onboarding, entregas e relatório mensal. → `/founder-ops`
 - [ ] Medir a **taxa de cancelamento** desde o primeiro mês. → `/founder-cfo`

@@ -8,4 +8,9 @@
   - Gestão de Instagram, 20 posts + 8 reels: R$ 2.100/mês
   - Combo completo (tráfego + Instagram): R$ 3.000/mês
 - Where and how: online, atendendo clientes no Brasil; entrega remota (criação de conteúdo, publicação, gestão de campanhas).
-- Budget and constraints: fundador Guilherme. Orçamento inicial, horas disponíveis, equipe, canal de aquisição de clientes e se a verba de anúncios está incluída no preço: não informados.
+- Verba de anúncios: NÃO incluída no preço; é paga pelo cliente direto às plataformas. Investimento mínimo exigido do cliente: R$ 600/mês em anúncios.
+- Promessa: fazer a loja do cliente vender, usando tráfego pago.
+- Nicho: ainda não definido (decisão do fundador de não escolher agora).
+- Clientes atuais: 2 clientes-piloto, ambos só no serviço de tráfego pago.
+- Combo de R$ 3.000: pacote de posts incluído a confirmar (o fundador disse "3 posts"; pode ser 20).
+- Budget and constraints: fundador Guilherme. Orçamento inicial, horas disponíveis, equipe e canal de aquisição de clientes: não informados.
