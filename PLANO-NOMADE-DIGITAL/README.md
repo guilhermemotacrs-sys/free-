@@ -28,6 +28,7 @@ Os arquivos Markdown e CSV desta pasta têm o mesmo conteúdo (fonte do HTML) �
 | 5. Cronograma completo de 180 dias | 6 arquivos mensais, todos os dias com tarefa exata, ferramenta, material, exercício, entrega, tempo por bloco, verificação e próxima ação | [02-CRONOGRAMA](02-CRONOGRAMA/) |
 | 6. Primeiros 7 dias | Passo a passo detalhado nos Dias 1–6 + revisão no Dia 7 | [mes-01-fundacao.md](02-CRONOGRAMA/mes-01-fundacao.md) |
 | 7. Primeiras tarefas comerciais | 10 tarefas com dia marcado, começando pelos 2 clientes atuais (upsell de criativos) e 30 prospects em Goiânia | [estrategia-de-prospeccao.md §8](05-PROSPECCAO/estrategia-de-prospeccao.md#8-as-primeiras-tarefas-comerciais-para-aumentar-a-renda-já) |
+| 9. Sua profissão (uma só) | **Performance Marketer com IA**: trazer clientes lucrativos para empresas com anúncios, criativos com IA, mensuração e automação. Trilha de 36 semanas (45 min por dia útil), certificações e níveis | [profissao.md](10-PROFISSAO/profissao.md) |
 | 8. Meta € 5.000/mês em 9 meses + Espanha | Habilidade "AI Growth Operator" (criativo + mídia + automação com IA + idiomas), 4–8 h/dia, escada de renda mês a mês, rota do visto de nômade digital (~€ 2.849/mês + diploma ou 3 anos de experiência) e nacionalidade espanhola em 2 anos | [plano-5k-espanha.md](09-META-5K-ESPANHA/plano-5k-espanha.md) |
 
 ## Estrutura
@@ -36,6 +37,8 @@ Os arquivos Markdown e CSV desta pasta têm o mesmo conteúdo (fonte do HTML) �
 PLANO-NOMADE-DIGITAL/
 ├── README.md                          ← você está aqui
 ├── PLANO-NOMADE-180.html              ← PLANO COMPLETO INTERATIVO (abra no navegador)
+├── 10-PROFISSAO/
+│   └── profissao.md                   ← a profissão escolhida, níveis, trilha de 36 semanas, certificações
 ├── 09-META-5K-ESPANHA/
 │   └── plano-5k-espanha.md            ← meta € 5.000/mês em 9 meses, escada de renda, rota do visto e da nacionalidade
 ├── 00-DIAGNOSTICO/
